@@ -1,7 +1,11 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:travels/day3/app/cons.dart';
+import 'package:travels/day3/pages/home_left_drawer.dart';
 import 'package:travels/day3/pages/home_menu.dart';
+
+import 'home_button.dart';
+import 'home_right_drawer.dart';
 
 class HomePage extends StatelessWidget {
   @override
