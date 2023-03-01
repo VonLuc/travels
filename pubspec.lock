@@ -9,6 +9,14 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "2.10.0"
+  bloc:
+    dependency: transitive
+    description:
+      name: bloc
+      sha256: "8544ef60368c465b9221e58967111c7678323319552cd7add8ed9a11bdec3828"
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "2.0.0"
   boolean_selector:
     dependency: transitive
     description:
@@ -62,6 +70,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  flutter_bloc:
+    dependency: "direct main"
+    description:
+      name: flutter_bloc
+      sha256: bc3a475c9d087e5dce5307cb5a0a2d8a41d982c07e1a19106c7af49f0b0d2526
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "2.1.1"
   flutter_lints:
     dependency: "direct dev"
     description:
@@ -123,6 +139,22 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "1.8.2"
+  provider:
+    dependency: transitive
+    description:
+      name: provider
+      sha256: c073897ced62b07e5a1536b97dce208a8b96046faeb2f66f65d3a7e59a971599
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "3.2.0"
+  rxdart:
+    dependency: transitive
+    description:
+      name: rxdart
+      sha256: "79022a7d6ab5f7d00458ed74c121a75f38c88b1b3fa4bb053f23110b7a2e1241"
+      url: "https://pub.flutter-io.cn"
+    source: hosted
+    version: "0.22.6"
   sky_engine:
     dependency: transitive
     description: flutter
